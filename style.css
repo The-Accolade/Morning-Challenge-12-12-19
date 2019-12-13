@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  font-family: 'Source Code Pro', monospace;
+
+}
